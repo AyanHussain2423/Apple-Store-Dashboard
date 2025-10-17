@@ -27,12 +27,11 @@ It explores patterns in **ratings, reviews, and app sizes** to reveal insights i
 ---
 
 ## 🖼️ Dashboard Previews
-<p align="center">
+
 <img src="https://github.com/user-attachments/assets/bfbd315e-f323-4941-a374-c29156c854fc" width="600" height="380" alt="PBIDesktop_eYcOaCGV4z" />
 <img src="https://github.com/user-attachments/assets/52e2f23e-6964-4efc-9676-20304e5693be" width="600" height="380" alt="PBIDesktop_Z2PYmyNtTI" />
 <img src="https://github.com/user-attachments/assets/eebe6e82-99e8-4cf6-86c2-4a89a5a04667" width="600" height="380" alt="PBIDesktop_BD7SQnexTT" />
 <img src="https://github.com/user-attachments/assets/c18cdb13-6eb9-4e9c-ad59-5925c3464e16" width="400" height="700" alt="PBIDesktop_yqQpLphDSB" />
-</p>
 
 ---
 
